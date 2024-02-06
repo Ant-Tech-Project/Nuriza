@@ -1,4 +1,3 @@
-Certainly! Below are detailed answers for each of the questions, formatted for a `README.md` file:
 
 ---
 

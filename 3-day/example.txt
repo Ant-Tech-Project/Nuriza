@@ -1,2 +1,3 @@
 Nuriza is trying to make conflict
 This is line 2 from branchA
+This is line 2 from branchB

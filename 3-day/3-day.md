@@ -39,7 +39,9 @@ There are a few steps that could reduce the steps needed to resolve merge confli
 - Step 3: The final step is to create a new commit with the help of the git commit command.
 
 - Step 4: Git will create a new merge commit to finalize the merge.
-**Branching Rules:**
+
+
+## Branching Rules:
 
 **Regex Rule:** Enforces branch naming conventions in specified project groups.
 
